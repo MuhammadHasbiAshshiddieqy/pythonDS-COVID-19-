@@ -1,2 +1,2 @@
 # pythonDS-COVID-19-
-Visualization, coronavirus, and basemap
+Visualization, bokeh, coronavirus, and basemap
